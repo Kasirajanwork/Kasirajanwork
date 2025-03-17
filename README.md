@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm KASIRAJAN</h1>
+<h3 align="center">NETWORK ENGINEER</h3>
+
+- 🔭 I’m currently working on **Networking projects and Network automation**
+
+- 🌱 I’m currently learning **Network Automation and Firewalls**
+
+- 💬 Ask me about **Routing protocols and Networking related Topics**
+
 # 💫 About Me:
 " When you really love what you are working on, you will think about it even when you are not working " <br><br>I believe, this quote apply to everything in life.<br><br>Goal-oriented and detail-oriented Network Engineer in Network Operation Centre and troubleshooting, seeking a challenging role to further develop my skills in network design, optimization, and automation, and contribute to the success of a forward-thinking organization.<br>
 
